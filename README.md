@@ -12,6 +12,9 @@ Helekopter animation text ascii using python script.
 	python main.py
 ```
 
+## Preview
+![ไม่มีอะไร](preview.gif)
+
 Enjoy!
 
 
